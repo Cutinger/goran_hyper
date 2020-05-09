@@ -1,0 +1,156 @@
+{
+    "fr": {
+       
+        "chooseSrc": "Choisir une source",
+        "noSrc": "Aucune source disponible"
+        
+    },
+    "langMovie" :{
+        "en": "fr_FR"
+        
+    },
+    
+    "register": {
+        "signup": "Inscription",
+        "username": "Nom d'utilisateur",
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "email": "Email",
+        "password": "Mot de passe",
+        "cpassword": "Confirmer",
+        "upload": "Ouvrir",
+        "image": "Avatar",
+        "submit": "Valider",
+        "usernameForm": "Entrer votre nom d'utilisateur",
+        "firstNameForm": "Entrer votre prénom",
+        "lastNameForm": "Entrer votre nom de famille",
+        "emailForm": "Enter votre email",
+        "passwordForm": "Entrer votre mot de passe",
+        "cpasswordForm": "Retaper votre mot de passe",
+        "usernameErr": "Le nom d'utilisateur est requis",
+        "firstNameErr": "Le prénom est requis",
+        "lastNameErr": "Le nom de famille est requis",
+        "emailErr": "L'email est requis",
+        "passwordErr": "Le mot de passe est requis",
+        "cpasswordErr": "Le 2ème mot de passe est requis",
+        "imageErr": "Un avatar est requis",
+        "usernameMin": "Au moins 2 caractères",
+        "usernameMax": "20 caractères max",
+        "usernameRules": "Pas d'espace ni de char spéciaux",
+        "firstNameMin": "Au moins 2 caractères",
+        "firstNameMax": "20 caractères max",
+        "firstNameAlpha": "Alphabet uniquement",
+        "lastNameMin": "Au moins 2 caractères",
+        "lastNameMax": "20 caractères max",
+        "lastNameAlpha": "Alphabet uniquement",
+        "passwordMin": "Au moins 6 chars",
+        "passwordMax": "15 caractères max",
+        "passwordMatch": "Les mot de passe sont différents"
+    },
+    "login": {
+        "login": "Connexion",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "remember": "Se souvenir de moi",
+        "forgot": "mot de passe oublié",
+        "or": "ou",
+        "registernow": "s'inscrire maintenant !",
+        "connect": "ou se connecter avec ces comptes :",
+        "login42": "Connexion avec 42",
+        "loginGoogle": "Connexion avec Google",
+        "loginInsta": "Connexion avec Instagram",
+        "loginGit": "Connexion avec Github",
+        "loginDiscord": "Connexion avec Discord",
+        "usernameErr": "Le nom d'utilisateur est trop court !",
+        "usernameErr2": "Le nom d'utilisateur est requis.",
+        "passwordErr": "Le mot de passe doit faire au moins 6 chars.",
+        "passwordErr2": "Le mot de passe est requis.",
+        "formErr": "Vérifiez votre pseudo ou mot de passe."
+    },
+    "navbar": {
+        "login": "Connexion",
+        "register": "Inscription",
+        "favorites": "Favoris",
+        "profile": "Profil",
+        "users": "Utilisateurs",
+        "logout": "Déconnexion",
+        "lngEN": "Anglais",
+        "lngFR": "Français"
+    },
+    "notFound": {
+        "sorry": "Désolé :(",
+        "notfound": "Page non trouvée"
+    },
+    "favorites": {
+        "title": "Ma liste des films favoris",
+        "login": "Veuillez vous connecter pour accéder à cette page...",
+        "accessLogin": "Aller à la page de Connexion",
+        "movieTitle": "Titre du film",
+        "movieRuntime": "Durée du film",
+        "add": "Ajouter aux Favoris",
+        "remove": "Enlever des favoris",
+        "removeButton": "Enlever"
+    },
+    "movie": {
+        "add": "Ajouter aux favoris",
+        "showActors": "Montrer les acteurs",
+        "like": "J'aime",
+        "dislike": "Je n'aime pas",
+        "share": "Partagez votre opinion à propos de",
+        "comFirst": "Soyez le premier à partager votre opinion à propos de ce film",
+        "comText": "écrire quelques mots...",
+        "comReply" : "répondre au commentaire...",
+        "comSubmit": "Commenter",
+        "reply": "Répondre",
+        "view": "Voir",
+        "moreComs": "commentaire(s) en plus",
+        "emptyCom": "Votre commentaire ne peut pas être vide.",
+        "loginFirst" : "Veuillez vous logguer avant",
+        "replyEmptyCom" : "Votre réponse ne peut pas être vide.",
+        "failCom" : "Échec lors de la publication du commentaire"
+    },
+    "movieInfo": {
+        "title": "Infos sur le film",
+        "movietitle": "Titre original",
+        "runtime": "Durée",
+        "release": "Année de sortie",
+        "revenue": "Recettes",
+        "budget" : "Budget",
+        "genre": "Genre",
+        "vote" : "Note moyenne",
+        "prod" : "Production",
+        "director" : "Réalisateur",
+        "image": "https://res.cloudinary.com/dkyqbngya/image/upload/v1586011642/czr9s0nxspurc9blgn9l.jpg"
+    },
+    "landing": {
+        "latest": "Dernières sorties",
+        "loadmore": "Autres films",
+        "notAvail" : "https://res.cloudinary.com/dkyqbngya/image/upload/v1586642805/f4fvutyhuggtznsyoaf4.jpg",
+        "search" : "Rechercher un film",
+        "searchRes" : "Résultats de la recherche"
+    },
+    "loading": {
+        "text": "Chargement..."
+    },
+    "genre": {
+        "Action": "Action",
+        "Adventure" : "Aventure",
+        "Animation" : "Animation",
+        "Comedy" : "Comédie",
+        "Crime" : "Crime",
+        "Documentary" : "Documentaire",
+        "Drama": "Drame",
+        "Family": "Familial",
+        "Fantasy": "Fantaisie",
+        "History": "Historique",
+        "Horror": "Horreur",
+        "Music": "Musical",
+        "Mystery": "Mystérieux",
+        "Romance": "Romantique",
+        "Sci-Fi": "Science-Fiction",
+        "TV-Movie": "Série télé",
+        "Thriller": "Thriller",
+        "War": "Guerre",
+        "Western": "Western"
+    }
+}

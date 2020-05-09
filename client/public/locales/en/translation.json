@@ -1,0 +1,158 @@
+{
+    "us": {
+       
+        "chooseSrc": "Choose a source",
+        "noSrc": "No source available",
+        
+    },
+    "langMovie" :{
+        "en": "en-US"
+        
+    },
+
+    "register": {
+        "signup": "Sign Up",
+        "username": "Username",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "password": "Password",
+        "cpassword": "Confirm",
+        "upload": "Upload",
+        "image": "Avatar",
+        "submit": "Submit",
+        "usernameForm": "Enter your username",
+        "firstNameForm": "Enter your first name",
+        "lastNameForm": "Enter your last name",
+        "emailForm": "Enter your email",
+        "emailInvalid": "Email is invalid",
+        "passwordForm": "Enter your password",
+        "cpasswordForm": "Re-type your password",
+        "usernameErr": "Username is required",
+        "firstNameErr": "First Name is required",
+        "lastNameErr": "Last Name is required",
+        "emailErr": "Email is required",
+        "passwordErr": "Password is required",
+        "cpasswordErr": "Confirm Password is required",
+        "imageErr": "Avatar is required",
+        "usernameMin": "At least 2 characters",
+        "usernameMax": "Max 20 characters",
+        "usernameRules": "No space or special chars",
+        "firstNameMin": "At least 2 characters",
+        "firstNameMax": "Max 20 characters",
+        "firstNameAlpha": "Only letters allowed",
+        "lastNameMin": "At least 2 characters",
+        "lastNameMax": "Max 20 characters",
+        "lastNameAlpha": "Only letters allowed",
+        "passwordMin": "Password must be at least 6 characters",
+        "passwordMax": "Max 15 characters",
+        "passwordMatch": "Passwords must match"
+        
+    },
+    "login": {
+        "login": "Log In",
+        "username": "Enter your username",
+        "password": "Enter your password",
+        "remember": "Remember me",
+        "forgot": "forgot password",
+        "or": "or",
+        "registernow": "sign up now!",
+        "connect": "or connect with these accounts:",
+        "login42": "Log in with 42",
+        "loginGoogle": "Log in with Google",
+        "loginInsta": "Log in with Instagram",
+        "loginGit": "Log in with Github",
+        "loginDiscord": "Log in with Discord",
+        "usernameErr": "Username is too short!",
+        "usernameErr2": "Username is required",
+        "passwordErr": "Password must be at least 6 characters",
+        "passwordErr2": "Password is required",
+        "formErr": "Check out your Username or Password again"
+    },
+    "navbar": {
+        "login": "Log In",
+        "register": "Sign Up",
+        "favorites": "Favorites",
+        "profile": "Profile",
+        "users": "Users",
+        "logout": "Log Out",
+        "lngEN": "English",
+        "lngFR": "French"
+    },
+    "notFound": {
+        "sorry": "Sorry :(",
+        "notfound": "Page not found"
+    },
+    "favorites": {
+        "title": "My Favorite Movies List",
+        "login": "Please Log in first to access this page...",
+        "accessLogin": "Go to Login page",
+        "movieTitle": "Movie Title",
+        "movieRuntime": "Movie RunTime",
+        "add": "Add to Favorites",
+        "remove": "Remove from favorites",
+        "removeButton": "Remove"
+    },
+    "movie": {
+        "add": "Add to Favorites",
+        "showActors": "Toggle Actor View",
+        "like": "Like",
+        "dislike": "Dislike",
+        "share": "Share your opinions about",
+        "comFirst": "Be the first one who shares your thought about this movie",
+        "comText": "write some comments",
+        "comReply" : "reply to the comment above...",
+        "comSubmit": "Submit",
+        "reply": "Reply",
+        "view": "View",
+        "moreComs": "more comment(s)",
+        "emptyCom": "Your comment cannot be empty.",
+        "loginFirst" : "Please Log in first",
+        "replyEmptyCom" : "Your reply comment cannot be empty.",
+        "failCom" : "Failed to save Comment"
+    },
+    "movieInfo": {
+        "title": "Movie info",
+        "movietitle": "Original Title",
+        "runtime": "Runtime",
+        "release": "Release Year",
+        "revenue": "Gross Revenue",
+        "budget": "Budget",
+        "genre": "Genre",
+        "vote" : "Average note",
+        "prod" : "Production",
+        "director" : "Director",
+        "image": "https://res.cloudinary.com/dkyqbngya/image/upload/v1586011642/czr9s0nxspurc9blgn9l.jpg"
+    },
+    "landing": {
+        "latest": "Movies by latest",
+        "loadmore": "Load more",
+        "notAvail" : "https://res.cloudinary.com/dkyqbngya/image/upload/v1586537514/twdjio2duy8ebxulqwti.png",
+        "search" : "Search Movies",
+        "searchRes" : "Search Results"
+    },
+    "loading": {
+        "text": "Loading..."
+    },
+    "genre": {
+        "Action": "Action",
+        "Adventure" : "Adventure",
+        "Animation" : "Animation",
+        "Comedy" : "Comedy",
+        "Crime" : "Crime",
+        "Documentary" : "Documentary",
+        "Drama": "Drama",
+        "Family": "Family",
+        "Fantasy": "Fantasy",
+        "History": "History",
+        "Horror": "Horror",
+        "Music": "Music",
+        "Mystery": "Mystery",
+        "Romance": "Romance",
+        "Sci-Fi": "Sci-Fi",
+        "TV-Movie": "TV Movie",
+        "Thriller": "Thriller",
+        "War": "War",
+        "Western": "Western"
+    }
+}
